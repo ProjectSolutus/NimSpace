@@ -17,7 +17,7 @@
 | 📱 **Mobile Optimized** | Responsive design with keyboard-aware UI |
 
 ## Try It Now!
-[👉 **Live Demo**](https://nimspace.example.com) <!-- Hyperlink for visibility -->
+[👉 **Live Demo**](https://projectsolutus.github.io/NimSpace/) <!-- Hyperlink for visibility -->
 
 ## How It Works
 
