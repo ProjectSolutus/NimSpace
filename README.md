@@ -58,6 +58,6 @@
 
 ### Quick Start
 ```bash
-git clone https://github.com/yourusername/NimSpace.git
+git clone https://github.com/ProjectSolutus/NimSpace.git
 cd NimSpace
 python -m http.server 8000  # Or `npx http-server`
